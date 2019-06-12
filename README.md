@@ -1,0 +1,2 @@
+# CS-151-Object-Oriented-Programming
+This repo contains almost all of the projects that were fulfilled as a part of the CS 151 course. The projects include a GUI based game implementation of the game 'Mancala'; the game development also utilized various object oriented software development patterns such as strategy pattern, template pattern and also used action Listeners. The Mancala application was made using the MVC architecture.
